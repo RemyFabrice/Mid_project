@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+E:\AUCA\AUCA\SEM 7 (02SEPT-08FEB 24)\WEB TECHN\MidTermExamProject\Proj1Mid\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2710860563.index
+2843804470.index
+3764207962.index
+2129344573.index
+2582384556.index

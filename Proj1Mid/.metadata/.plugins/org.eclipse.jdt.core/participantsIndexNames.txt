@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+E:\AUCA\AUCA\SEM 7 (02SEPT-08FEB 24)\WEB TECHN\MidTermExamProject\Proj1Mid\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\749186890.index
+\AucaStudentManagementSystem\src\main\java
